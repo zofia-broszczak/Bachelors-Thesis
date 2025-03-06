@@ -43,3 +43,19 @@ Faculty of Sociology;
 
  Statistics
  Methodology of experimental research
+
+
+ **Files description**
+1. Bachelor's Thesis.pdf - Thesis paper in pdf format;
+2. statistical_analysis_bachelors.ipynb - statistical analysis performed in R in ipynb format;
+3. Badanie Licencjackie Zofia Broszczak (Odpowiedzi).xlsx - Excel file with answers from the survey:
+- sheet1 - group 1 (Online bezpośrednie) - questions asked online and directly;
+- sheet2 - group 2 (Offline bezpośrednie) - questions asked offline and directly;
+- sheet3 - group 3 (Offline RR) - questions asked online with the use of the Randomized Response method;
+- sheet4 - group 4 (Online RR) - questions asked offline with the use of the Randomized Response method;
+
+**Variables description:**
+1. Płeć (Sex) - Kobieta (Female) / Mężczyzna (Male)
+2. Kierunek i rok studiów (Field and year of study)
+3. Odp (Answer) - Yes / No
+4. Grupa (Group) - 1 / 2 / 3 / 4;
